@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"component"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"yout",
+				"YOUTUBE_KEY"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"seri",
+				"series_divs"
+			],
+			[
+				"badge",
+				"badge_divs"
+			],
+			[
+				"all",
+				"all_divs"
+			],
+			[
+				"ser",
+				"series_batch_array"
+			],
+			[
+				"make",
+				"make_models"
+			],
+			[
+				"make_models",
+				"make_models_keys"
+			],
+			[
+				"se",
+				"series_batch_array"
+			],
+			[
+				"model",
+				"model_url"
+			],
+			[
+				"file",
+				"file_make_models"
+			],
+			[
+				"json",
+				"json_format"
+			],
+			[
+				"a",
+				"a_tags"
+			],
+			[
+				"x",
+				"x_found"
+			],
+			[
+				"mo",
+				"model_group"
+			],
+			[
+				"ul",
+				"ul_lists"
+			],
+			[
+				"key",
+				"keyDetails"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"ke",
+				"keyDetails"
+			],
+			[
+				"csv",
+				"csvFile"
+			],
+			[
+				"filena",
+				"filename"
+			],
+			[
+				"filen",
+				"filename"
+			],
+			[
+				"page",
+				"pageUrl"
+			],
+			[
+				"cont",
+				"continue"
+			],
+			[
+				"counter",
+				"imageCounter"
+			],
+			[
+				"sou",
+				"soup1"
+			],
+			[
+				"im",
+				"imageSource"
+			],
+			[
+				"image",
+				"imageSource"
+			],
+			[
+				"div",
+				"divClass"
+			],
+			[
+				"ima",
+				"imageName"
+			],
+			[
+				"di",
+				"divClass"
+			],
+			[
+				"imag",
+				"imageCounter"
+			],
+			[
+				"sty",
+				"styleEl"
+			],
+			[
+				"conte",
+				"contents"
+			],
+			[
+				"car",
+				"carLinks"
+			],
+			[
+				"get",
+				"getClass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/my_projects/react_project/index.html",
+		"/C/Users/karan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/karan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/my_projects/travel_project/suggestions.txt",
+		"/D/carbar/CarbarNew/.git/config",
+		"/D/my_projects/react_command.txt",
+		"/D/my_projects/react_project/package.json",
+		"/D/my_projects/react_project/node_modules/webpack-dev-server/bin/server-stop.js",
+		"/D/my_projects/GoProject/HelloWorld.go",
+		"/C/Users/karan/Downloads/53777 (2).txt",
+		"/D/carbar/DE-535/properties_jeff (20180502).txt",
+		"/D/carbar/suggestions.txt",
+		"/C/Users/karan/Downloads/53777 (1).txt",
+		"/D/PTE.txt",
+		"/D/id.txt",
+		"/C/Users/karan/Desktop/New Text Document.txt",
+		"/D/Financial/Advices.txt",
+		"/D/1_Uni/carbar/phpStorm/sampleProject/any.php",
+		"/D/DOCS/notes.txt",
+		"/D/carbar/tinker_commands.txt",
+		"/D/carbar/DE-535/new_properties.txt",
+		"/D/carbar/DE-535/properties.txt",
+		"/C/Users/karan/Downloads/53777.txt",
+		"/C/Users/karan/Downloads/file.txt",
+		"/D/carbar/DE-610/CBC1805000311526603634.txt",
+		"/D/carbar/CarbarNew/resources/views/www/www3/vehicle/detail-js.blade.php",
+		"/D/carbar/dealer_sol_files/.env",
+		"/D/carbar/tickets.txt",
+		"/C/Users/karan/Desktop/New Text Document (2).txt",
+		"/D/carbar/DE-590/style-plus.css",
+		"/D/carbar/DE-590/car_listing.php",
+		"/D/carbar/DE-590/car_details.php",
+		"/D/carbar/DE-590/style.css",
+		"/C/Users/karan/Downloads/properties.txt",
+		"/C/Users/karan/LaunchApps.py",
+		"/D/carbar/DE-557/modal.php",
+		"/D/carbar/DE-474/intercom-form.blade.php",
+		"/D/carbar/DE-474/intercom.txt",
+		"/D/carbar/DE-557/modal.txt",
+		"/D/carbar/password.txt",
+		"/D/1_Uni/python/tets.py",
+		"/D/carbar/DE-540/home.blade.php",
+		"/D/carbar/php storm_key.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/carbar/DE-505/series_badges.txt",
+		"/D/carbar/CarbarNew/storage/app/series_badges.txt",
+		"/D/carbar/DE-401/routes/web.php",
+		"/D/carbar/DE-505/features.txt",
+		"/D/carbar/DE-505/series_batch.py",
+		"/C/Users/karan/Downloads/ordertracking.php",
+		"/D/carbar/DE-505/test.py",
+		"/C/Users/karan/Downloads/style.css",
+		"/D/carbar/DE-505/readFile.txt",
+		"/D/carbar/DE-505/series_badge.txt",
+		"/D/carbar/DE-505/series_badges_test.txt",
+		"/D/carbar/carbartools/getUrl.py",
+		"/D/carbar/DE-505/series_batch.txt",
+		"/D/carbar/DE-505/badge_series.txt",
+		"/D/carbar/DE-505/make_models.txt",
+		"/D/carbar/DE-505/CarBrands.py",
+		"/D/carbar/DE-505/cars_models.txt",
+		"/D/carbar/DE-505/Brands.txt",
+		"/D/carbar/DE-505/cars_result.txt",
+		"/D/carbar/DE-505/ReadFile.py",
+		"/D/carbar/web_crawler/scripts/demonstrate_parser_differences.py",
+		"/D/carbar/carbartools/AllCarUrl.py",
+		"/D/carbar/DE-505/Models.txt",
+		"/D/carbar/carbar_dev_stocks.sql",
+		"/D/carbar/makeCommands.txt",
+		"/D/carbar/cronjob.txt",
+		"/D/carbar/DE-505/cars_models_make.txt",
+		"/D/carbar/DE-505/cars_results_make_model.txt",
+		"/D/carbar/carbartools/Brands.txt",
+		"/D/carbar/carbartools/CarBrands.py",
+		"/D/carbar/carbartools/specification4.txt",
+		"/D/carbar/carbartools/NewCarsReader.py",
+		"/D/carbar/carbartools/NewCars2/audi.txt",
+		"/D/carbar/test.txt",
+		"/C/Users/karan/Homestead/Homestead.yaml",
+		"/C/Users/karan/Homestead/resources/Homestead.yaml",
+		"/C/Users/karan/Homestead/composer.json",
+		"/C/Users/karan/Homestead/key",
+		"/C/Users/karan/Homestead/init.sh",
+		"/C/Users/karan/Homestead/init.bat",
+		"/C/Users/karan/Homestead/.travis.yml",
+		"/C/xampp/php/php.ini",
+		"/D/carbar/CarbarNew/app/Models/User.php",
+		"/D/carbar/DE-455/methods.txt",
+		"/D/carbar/DE-464/contact-us.txt",
+		"/D/carbar/track_status/tracker.txt",
+		"/D/carbar/CarbarNew/app/Models/Vehicle.php",
+		"/D/carbar/DE-136/oldAdmin/car_detail.js",
+		"/D/carbar/web_php_old.txt.txt",
+		"/C/Users/karan/Downloads/web_php.txt",
+		"/D/carbar/api_php.txt",
+		"/D/carbar/web.txt",
+		"/C/Users/karan/Downloads/api_php.txt",
+		"/D/carbar/DE-136/properties.blade14Feb.txt",
+		"/D/carbar/api_php_old.txt",
+		"/D/carbar/web_php.txt",
+		"/D/carbar/DE-136/admin_VehicleController.php",
+		"/C/xampp/php/pear/File/HtAccess.php",
+		"/C/DRIVERS/WIN/WLANINT/Install/data/Driver.msi",
+		"/C/Intel/gp/profile_karan.dat",
+		"/D/carbar/DE-136/images.blade.php",
+		"/D/DOCS/pcc/refNo.txt",
+		"/C/Users/karan/Downloads/Route_File_05_02_2018_-_DE-394.txt",
+		"/D/DOCS/EOI/EOI_ID.txt",
+		"/D/carbar/prod/vehiclemodel.txt",
+		"/D/carbar/prod/vehicleController.txt",
+		"/D/carbar/prod/searchform.txt",
+		"/D/carbar/DE-339/quickstart.php",
+		"/D/carbar/DE-339/calendar-php-quickstart.json",
+		"/D/PTE Offline Practice Test/links.txt",
+		"/D/carbar/CarbarNew/vendor/league/oauth1-client/src/Client/Credentials/Credentials.php",
+		"/D/carbar/CarbarNew/vendor/google/auth/src/Credentials/AppIdentityCredentials.php",
+		"/C/WINDOWS/System32/drivers/etc/hosts",
+		"/D/carbar/CarbarNew/quickstart.php",
+		"/D/carbar/DE-351/testData.txt",
+		"/D/carbar/prod/database.txt",
+		"/D/carbar/body.txt",
+		"/D/carbar/DE-251/Stock.txt",
+		"/D/carbar/DE-251/web.txt",
+		"/D/carbar/CarbarNew/app/Console/Commands/VehicleSync.php",
+		"/D/carbar/CarbarNew/routes/web.php",
+		"/D/carbar/DE-312/composer.json",
+		"/D/carbar/DE-312/user_controller.txt",
+		"/C/Users/karan/Documents/hosts.txt"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
