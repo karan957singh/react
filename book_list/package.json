@@ -2,7 +2,7 @@
   "name": "book_list",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
-  "main": "index.js",
+  "main": "index.html",
   "repository": "git@github.com:karan957singh/react_project.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
