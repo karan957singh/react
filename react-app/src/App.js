@@ -1,8 +1,17 @@
 import React, { Component } from 'react';
 import './App.css';
 import Navbar from'./components/navbar';
-// import Movies from "./components/movies";
+import Movies from "./components/movies";
 import Counters from "./components/counters";
+import {Route, Switch, Redirect, HashRouter} from "react-router-dom";
+import Customers from "./components/customers";
+import Rentals from "./components/rentals";
+import NotFound from "./components/notFound";
+import MovieForm from "./components/movieForm";
+import LoginForm from "./components/loginForm";
+import RegisterForm from "./components/registerForm";
+import {ToastContainer} from "react-toastify";
+import "react-toastify/dist/ReactToastify.css"
 
 class App extends Component {
 
@@ -75,17 +84,30 @@ class App extends Component {
       console.log("App-Rendered");
     return (
         <React.Fragment>
-        <Navbar totalCounters={this.state.counters.filter(c=>c.value>0).length}/>
+            <ToastContainer/>
+        {/*<Navbar totalCounters={this.state.counters.filter(c=>c.value>0).length}/>*/}
+        <Navbar />
      <main className="container">
-         {/*<Movies/>*/}
-         <Counters
-             counters={this.state.counters}
-             onReset={this.handleReset}
-             onDelete={this.handleDelete}
-             onIncrement={this.handleIncrement}
-             onDecrement={this.handleDecrement}
+         <Switch>
+             <Route path="/login" component={LoginForm}/>
+             <Route path="/register" component={RegisterForm}/>
 
-         />
+             <Route path="/movies/:id" component={MovieForm}/>
+             <Route path="/movies/new" component={MovieForm}/>
+             <Route path="/movies" component={Movies}></Route>
+             <Route path="/customers" component={Customers}></Route>
+             <Route path="/Rentals" component={Rentals}></Route>
+             <Redirect from="/" exact to="/movies"></Redirect>
+             <Route path="/" component={NotFound}/>
+         </Switch>
+         {/*<Counters*/}
+             {/*counters={this.state.counters}*/}
+             {/*onReset={this.handleReset}*/}
+             {/*onDelete={this.handleDelete}*/}
+             {/*onIncrement={this.handleIncrement}*/}
+             {/*onDecrement={this.handleDecrement}*/}
+
+         {/*/>*/}
      </main>
         </React.Fragment>
     );
